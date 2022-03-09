@@ -1,6 +1,6 @@
 # 100-days-Web3-Challenge.
 
-### Day 1 : [9/03/2022]
+### Day 1 : [10/03/2022]
 
-- Started Course with Dapp University.
+
 
