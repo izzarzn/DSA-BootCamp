@@ -1,5 +1,7 @@
-# 100-days
+# Data Structures Algorithms
 
-###  Nothing to add in this Readme FILe
+### Day-1 [20-03-2022]
+#### Vedio-1 : Best Data Structures & Algorithms (DSA) 
 
-
+- All about the Course
+- Course Contents and Benifits 
