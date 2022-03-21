@@ -5,3 +5,8 @@
 
 - All about the Course
 - Course Contents and Benifits 
+
+### Day-2 [21-03-2022]
+#### Vedio-2 : Java vs C++ for Data Structures & Algorithms
+
+- 
