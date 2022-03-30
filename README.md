@@ -1,17 +1,17 @@
 # Data Structures Algorithms
 
-### Day-1 [20-03-2022]
+### [Day-1 [20-03-2022]](https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=1&ab_channel=KunalKushwaha) 
 #### Vedio-1 : Best Data Structures & Algorithms (DSA) 
 
 - All about the Course
 - Course Contents and Benifits 
 
-### Day-2 [21-03-2022]
+### Day-2 [21-03-2022] 
 #### Vedio-2 : Java vs C++ for Data Structures & Algorithm
 
 - 
 
-### Day-3 [23-03-2022]
+### Day-3 [23-03-2022] 
 #### Vedio-3 : How I Cleared My Google Interviews - Use LeetCode Effectively.
 
 - how to find problems
