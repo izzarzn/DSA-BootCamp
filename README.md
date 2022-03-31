@@ -9,7 +9,8 @@
 ### [Day-2 [21-03-2022]](https://www.youtube.com/watch?v=Nckx9qMy_kw&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=2&ab_channel=KunalKushwaha) 
 #### Vedio-2 : Java vs C++ for Data Structures & Algorithm
 
-- 
+-
+-
 
 ### [Day-3 [23-03-2022]](https://www.youtube.com/watch?v=waGfV-IoOt8&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=3&ab_channel=KunalKushwaha) 
 #### Vedio-3 : How I Cleared My Google Interviews - Use LeetCode Effectively.
