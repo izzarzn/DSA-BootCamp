@@ -15,12 +15,12 @@
 ### [Day-3 [23-03-2022]](https://www.youtube.com/watch?v=waGfV-IoOt8&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=3&ab_channel=KunalKushwaha) 
 #### Vedio-3 : How I Cleared My Google Interviews - Use LeetCode Effectively.
 
-- how to find problems
-- order of problems
-- what to do if you get stuck
-- best practices to find solutions
-- how to balance it with development
-- and share some resources for your interviews!
+- How to find problems
+- Order of problems
+- What to do if you get stuck
+- Best practices to find solutions
+- How to balance it with development
+- And share some resources for your interviews!
 
 
 ### [Day-4 [28-03-2002]](https://www.youtube.com/watch?v=apGV9Kg7ics&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=4&ab_channel=KunalKushwaha)
