@@ -29,9 +29,15 @@
 -
 
 ### [Day-5 [30-03-2002]](https://www.youtube.com/watch?v=wn49bJOYAZM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=5&ab_channel=KunalKushwaha)
-#### Vedio-4 : Introduction to Programming - Types of Languages, Memory Management.
+#### Vedio-5 : Introduction to Programming - Types of Languages, Memory Management.
 
 - Procedural vs Functional vs Object Oriented Languages
 - Static vs Dynamic memory allocation
 - Objects and references
+
+### [Day-6 [3-04-2022]](https://www.youtube.com/watch?v=lhELGQAV4gg&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=6&ab_channel=KunalKushwaha)
+#### Vedio-6 : Flow of Program - Flowcharts & Pseudocode
+
+-In this video, we discuss the flow of the program. Giving you insights about how to visualise your algorithms using flowcharts and turn them into pseudocode.
+-We cover concepts like if conditions, loops, and also learn how to find whether a number is prime or not in an efficient way.
 
