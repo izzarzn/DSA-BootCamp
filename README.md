@@ -41,5 +41,5 @@
 - In this video, we discuss the flow of the program. Giving you insights about how to visualise your algorithms using flowcharts and turn them into pseudocode.
 - We cover concepts like if conditions, loops, and also learn how to find whether a number is prime or not in an efficient way.
 
-### [Day-7[7-04-2022]]()
+### [Day-7 [7-04-2022]]()
 #### Vedio-7 :
