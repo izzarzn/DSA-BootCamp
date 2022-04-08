@@ -41,5 +41,7 @@
 - In this video, we discuss the flow of the program. Giving you insights about how to visualise your algorithms using flowcharts and turn them into pseudocode.
 - We cover concepts like if conditions, loops, and also learn how to find whether a number is prime or not in an efficient way.
 
-### [Day-7 [7-04-2022]]()
-#### Vedio-7 :
+### [Day-7 [7-04-2022]](https://www.youtube.com/watch?v=4EP8YzcN0hQ&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=7&ab_channel=KunalKushwaha)
+#### Vedio-7 : Introduction to Java - Architecture & Installation
+
+-In this video we learn about the fundamentals of Java. How it works, the architecture, code execution, every single step in detail. We also cover the installation of tools that are required to write code in Java.
