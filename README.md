@@ -52,4 +52,5 @@
 -In this video we run our first Java program from scratch, providing a hands on demo of every step.
 We cover input and output in Java, data types, type conversion and casting, debugging, control flow, loops, and also solve a few problems.
 
-### [Day-9 [13-04-2022]]()
+### [Day-9 [13-04-2022]](https://www.youtube.com/watch?v=ldYLYRNaucM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=9&ab_channel=KunalKushwaha)
+#### Vedio-9 : Conditionals and Loops + Calculator Program
