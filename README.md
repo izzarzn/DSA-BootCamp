@@ -54,3 +54,6 @@ We cover input and output in Java, data types, type conversion and casting, debu
 
 ### [Day-9 [13-04-2022]](https://www.youtube.com/watch?v=ldYLYRNaucM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=9&ab_channel=KunalKushwaha)
 #### Vedio-9 : Conditionals and Loops + Calculator Program.
+
+-In this video, we discuss conditionals and loops in Java. We cover if-else statements, adding multiple checks, for, while, do-while loops.
+-In addition to this, we also cover some questions to apply things into practice, and also create a calculator program.
