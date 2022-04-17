@@ -44,16 +44,17 @@
 ### [Day-7 [7-04-2022]](https://www.youtube.com/watch?v=4EP8YzcN0hQ&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=7&ab_channel=KunalKushwaha)
 #### Vedio-7 : Introduction to Java - Architecture & Installation
 
--In this video we learn about the fundamentals of Java. How it works, the architecture, code execution, every single step in detail. We also cover the installation of tools that are required to write code in Java.
+- In this video we learn about the fundamentals of Java. How it works, the architecture, code execution, every single step in detail. We also cover the installation of tools that are required to write code in Java.
 
 ### [Day-8 [9-04-2022]](https://www.youtube.com/watch?v=TAtrPoaJ7gc&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=8&ab_channel=KunalKushwaha)
 #### Vedio-8 : First Java Program - Input/Output, Debugging and Datatypes
 
--In this video we run our first Java program from scratch, providing a hands on demo of every step.
+- In this video we run our first Java program from scratch, providing a hands on demo of every step.
 We cover input and output in Java, data types, type conversion and casting, debugging, control flow, loops, and also solve a few problems.
 
 ### [Day-9 [13-04-2022]](https://www.youtube.com/watch?v=ldYLYRNaucM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=9&ab_channel=KunalKushwaha)
 #### Vedio-9 : Conditionals and Loops + Calculator Program.
 
--In this video, we discuss conditionals and loops in Java. We cover if-else statements, adding multiple checks, for, while, do-while loops.
--In addition to this, we also cover some questions to apply things into practice, and also create a calculator program.
+- In this video, we discuss conditionals and loops in Java. We cover if-else statements, adding multiple checks, for, while, do-while loops.
+
+- In addition to this, we also cover some questions to apply things into practice, and also create a calculator program.
