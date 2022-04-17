@@ -56,5 +56,4 @@ We cover input and output in Java, data types, type conversion and casting, debu
 #### Vedio-9 : Conditionals and Loops + Calculator Program.
 
 - In this video, we discuss conditionals and loops in Java. We cover if-else statements, adding multiple checks, for, while, do-while loops.
-
 - In addition to this, we also cover some questions to apply things into practice, and also create a calculator program.
