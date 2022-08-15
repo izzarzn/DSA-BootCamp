@@ -1,4 +1,4 @@
-# Data Structures Algorithms
+# Data Structures Algorithms.
 
 ### [Day-1 [20-03-2022]](https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=1&ab_channel=KunalKushwaha) 
 #### Vedio-1 : Best Data Structures & Algorithms (DSA) 
